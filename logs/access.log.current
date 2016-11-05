@@ -1,0 +1,6 @@
+66.249.69.125 - - [07/Feb/2016:05:21:04 -0600] "GET /robots.txt HTTP/1.1" 404 1364 www.flomarmaterialesyaceros.com.mx "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-"
+66.249.69.13 - - [07/Feb/2016:05:21:04 -0600] "GET / HTTP/1.1" 200 17614 www.flomarmaterialesyaceros.com.mx "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-"
+66.249.69.5 - - [07/Feb/2016:06:56:26 -0600] "GET / HTTP/1.1" 200 17614 www.flomarmaterialesyaceros.com.mx "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-"
+180.76.15.147 - - [07/Feb/2016:09:39:34 -0600] "GET / HTTP/1.1" 304 - www.flomarmaterialesyaceros.com.mx "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "-"
+190.173.14.222 - - [07/Feb/2016:13:57:04 -0600] "GET /img/cemonterrey.jpg HTTP/1.1" 200 38968 www.flomarmaterialesyaceros.com.mx "-" "Mozilla/5.0 (Linux; U; Android 4.4.4; es-es; GT-I9060I Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30" "-"
+66.249.69.125 - - [07/Feb/2016:15:47:55 -0600] "GET /css/misestilos.css HTTP/1.1" 200 711 www.flomarmaterialesyaceros.com.mx "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-"
