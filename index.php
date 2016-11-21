@@ -89,7 +89,8 @@
 							      </ol>
 							      <!-- Carousel items -->
 							      <div class="carousel-inner">
-							        <div class="item active"><img  src="img/fachada2.jpg" alt="banner1" /></div>
+							        <div class="item active"><img  src="img/frente.jpg" alt="banner1" /></div>
+							        <div class="item"><img  src="img/frente2.1.jpg" alt="banner2" /></div>
 							        <div class="item"><img  src="img/fachada1.jpg" alt="banner2" /></div>
 							        <div class="item"><img  src="img/patio1.jpg" alt="banner3" /></div>
 							        <div class="item"><img  src="img/patio4.jpg" alt="banner4" /></div>
