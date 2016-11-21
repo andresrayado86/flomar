@@ -104,7 +104,7 @@
 						</div>
 						<hr>
 						<div>
-							<p>En <b>FloMar</b> ofrecemos materiales para construcci&oacute;n de calidad y de las mejores marcas.</p>
+							<h3><p>En <b>FloMar</b> ofrecemos materiales para construcci&oacute;n de calidad y de las mejores marcas.</p></h3>
 						</div>
 						<div class="well" style="background: white;">
 						<div class="row-fluid">
